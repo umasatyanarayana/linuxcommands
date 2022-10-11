@@ -1,0 +1,2 @@
+command:ls command
+use:lS is a Linux shell command that lists directory contents files and directories
