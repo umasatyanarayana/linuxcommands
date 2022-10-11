@@ -1,0 +1,4 @@
+command:mkdir
+use:to create a new directory
+the command can create multiple directories at once as well as set the for the directories
+
