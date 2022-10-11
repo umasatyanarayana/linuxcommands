@@ -1,0 +1,2 @@
+command:sort command
+use:SORT command is used to sort a file, arranging the records and particular order
